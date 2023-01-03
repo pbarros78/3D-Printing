@@ -35,7 +35,7 @@ My first 3D printing projects
 ### Broken leg
 ![All wrong](src/s08.jpeg)
 
-## Curtain bracket
+## Curtain bracket (Designed by my)
 [Video](src/Fijador.mp4)
 
 ![Bracket 01](src/f01.jpeg)
